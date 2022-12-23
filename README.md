@@ -1,5 +1,5 @@
 # ANN-application-on-SG-Iron
-The following repository introduces people to implementing Artificial Neural Networks (feedforward network) to better understand the mechanical properties of Spheroidal Cast Iron. The input parameters are the compositions of the material and we obtain outputs in the form of hardness, Ultimate Tensile Strength (UTS) and elongation. Here we are using the BAyesian Regularization training function and mean squared error as performance function to obtain good correlation coefficient.
+The following repository introduces people to implementing Artificial Neural Networks (feedforward network) to better understand the mechanical properties of Spheroidal Cast Iron. The input parameters are the compositions of the material and we obtain outputs in the form of hardness, Ultimate Tensile Strength (UTS) and elongation. Here we are using the Bayesian Regularization training function and mean squared error as performance function to obtain good correlation coefficient. Matlab software has been used for running the models.
 For reference:
 1. Model_1 represents hardness as output.
 2. Model_U represents UTS as output.
